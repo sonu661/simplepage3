@@ -1,0 +1,42 @@
+/* Reset some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and font for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Style the header */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Style the main content */
+main {
+    margin: 20px 0;
+}
+
+/* Add some special styling to the highlighted paragraph */
+.highlight {
+    background-color: #ffff99;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Style the footer */
+footer {
+    text-align: center;
+    font-size: 0.8em;
+    color: #666;
+    margin-top: 20px;
+}
